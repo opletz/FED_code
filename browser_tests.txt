@@ -1,0 +1,7 @@
+Browsers Tests
+===============
+WinXP/IE6 Active Scripting Enabled - Success
+WinXP/IE6 Active Scripting Disabled - Fail
+WinXP/Firefox3 Javascript enabled or disabled - Success
+Linux/Firefox10 Javascript enabled or disabled - Success
+
